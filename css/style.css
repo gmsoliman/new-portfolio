@@ -1,11 +1,21 @@
+/* Common Elements */
 h2{
     color: #799cda;
 }
 
+/* Home */
 .masthead h2{
     font-size: 2rem !important;
 }
 
+/* About */
 .headshot{
     width: 30rem;
+}
+
+/* Skills */
+
+
+.fa-code, .fa-css3-alt, .fa-bootstrap, .fa-github-square, .fa-database{
+    color: #455a64;
 }
