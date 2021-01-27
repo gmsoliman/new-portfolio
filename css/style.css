@@ -18,3 +18,12 @@ h2{
 .fa-code, .fa-css3-alt, .fa-bootstrap, .fa-github-square, .fa-database{
     color: #455a64;
 }
+
+/* Projects */
+.fixed{
+    background-image: url("../assets/bg-projects.jpg");
+    position: fixed;
+}
+.fixed-background{
+    padding: 30rem 0;
+}
