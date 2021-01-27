@@ -5,3 +5,7 @@ h2{
 .masthead h2{
     font-size: 2rem !important;
 }
+
+.headshot{
+    width: 30rem;
+}
